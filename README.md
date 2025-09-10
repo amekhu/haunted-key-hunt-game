@@ -32,7 +32,7 @@ the player explores a haunted mansion, collecting keys while avoiding (or defeat
 
 ---
 
-# how to Run
+# how to run
 clone this repo:  
   ```bash
    git clone https://github.com/amekhu/haunted-key-hunt-game.git
